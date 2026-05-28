@@ -6,7 +6,7 @@
   font-family: "Poppins", sans-serif;
 }
 .main {
-  background-image: url("assets/images/background.jpg");
+  background-image: url("background.jpg");
   height: 96vh;
   background-size: max(1200px, 100vw);
   background-repeat: no-repeat;
@@ -163,24 +163,24 @@ section h2 {
   position: relative;
 }
 .box1 {
-  background-image: url("assets/images/pic_1.jpg");
+  background-image: url("pic_1.jpg");
   background-size: cover;
 }
 .box2 {
-  background-image: url("assets/images/pic_2.jpg");
+  background-image: url("pic_2.jpg");
   background-size: cover;
 }
 .box3 {
-  background-image: url("assets/images/pic_3.jpg");
+  background-image: url("pic_3.jpg");
   background-size: cover;
 }
 
 .box4 {
-  background-image: url("assets/images/pic_4.jpg");
+  background-image: url("pic_4.jpg");
   background-size: cover;
 }
 .box5 {
-  background-image: url("assets/images/pic_5.jpg");
+  background-image: url("pic_5.jpg");
   background-size: cover;
 }
 .box-number {
